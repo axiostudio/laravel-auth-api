@@ -1,0 +1,20 @@
+{
+    "name": "axiostudio/laravel-auth-api",
+    "description": "A simple controller with predefined routes for Laravel Sanctum API authentication, including login, logout, registration, email verification, and password recovery.",
+    "type": "library",
+    "require": {
+        "php": "^8.0|^8.1|^8.2|^8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Axiostudio\\LaravelAuthApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Axio Studio",
+            "email": "info@axio.studio"
+        }
+    ]
+}
